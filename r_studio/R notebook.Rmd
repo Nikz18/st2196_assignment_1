@@ -1,0 +1,9 @@
+---
+title: "Introduction"
+output: html_document
+date: "2022-09-28"
+---
+
+**Markdown is a markup language that consists of a set of rules for adding formatting elements.**
+
+The *for* code expressed in spyder and r script are different, where the *for* code in python need to pre-determine the integers before print out while the *for* code in R script can be expressed with the command.
